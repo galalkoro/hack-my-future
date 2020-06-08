@@ -18,8 +18,8 @@
 ## All of My Projects
 
 ### Working with Code
-* [Markdown Home Page](https://badgerbadgerbadger.com)
-* [My bio on the class repo](https://badgerbadgerbadger.com)
-* [Hack My Future](./README.md)
+* [Markdown Home Page](https://galalkoro.github.io/)
+* [My bio on the class repo](https://github.com/galalkoro/Group-intro-class9-10_6)
+* [Hack My Future](https://github.com/galalkoro/hack-my-future)
 
 ### Incremental Development
